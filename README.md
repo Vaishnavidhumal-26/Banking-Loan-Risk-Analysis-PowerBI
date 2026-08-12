@@ -46,14 +46,13 @@ Provides additional details when users interact with dashboard visuals.
 ## Dashboard Preview
 
 ### Main Dashboard
-![Main Dashboard](./01-Main-Dashboard.png)
+<img src="./01_Main-Dashboard.png" alt="Main Dashboard">
 
 ### Application Details
-![Application Details](./02-Application-Details.png)
+<img src="./02_Application-Details.png" alt="Application Details">
 
 ### Tooltip Page
-![Tooltip Page](./03-Tooltip-Page.png)
-
+<img src="./03_Tooltip-Page.png" alt="Tooltip Page">
 ## Project File
 
 The Power BI `.pbix` file is included in this repository.
