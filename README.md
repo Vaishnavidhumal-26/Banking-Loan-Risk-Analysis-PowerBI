@@ -53,6 +53,7 @@ Provides additional details when users interact with dashboard visuals.
 
 ### Tooltip Page
 <img src="./03_Tooltip-Page.png" alt="Tooltip Page">
+
 ## Project File
 
 The Power BI `.pbix` file is included in this repository.
