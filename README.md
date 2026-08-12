@@ -46,13 +46,13 @@ Provides additional details when users interact with dashboard visuals.
 ## Dashboard Preview
 
 ### Main Dashboard
-![Main Dashboard] (01-Main-Dashboard.png)
+![Main Dashboard](./01-Main-Dashboard.png)
 
 ### Application Details
-! [Application Details] (02-Application-Details.png)
+![Application Details](./02-Application-Details.png)
 
 ### Tooltip Page
-![Tooltip Page] (03-Tooltip-Page.png)
+![Tooltip Page](./03-Tooltip-Page.png)
 
 ## Project File
 
